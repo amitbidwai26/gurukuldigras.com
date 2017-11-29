@@ -1,0 +1,16 @@
+/*
+A Design by Bidwai Technologies
+Author: Bidwai Technologies
+Author URL: http://bidwai.in
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
+----------------------------------
+NOTE : FREQUENTLY ASKED QUESTIONS 
+----------------------------------
+
+
+1. Under which license you are providing these templates?
+
+	Bidwai Technologies templates are under Creative Commons Attribution 3.0 unported
+
